@@ -8,7 +8,7 @@ if len(cep)==8:
 
     uf=dic_requisicao['uf']
     cidade=dic_requisicao['localidade']
-    bairro=dic_requisicao['bairo']
+    bairro=dic_requisicao['bairro']
     print(dic_requisicao)
 else:
     print("CEP Inválido")
